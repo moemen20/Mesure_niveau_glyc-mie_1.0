@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mesure de niveau de glycemie</string>
+    <string name="text">Mesure De Niveau De Glycémie</string>
+    <string name="age">Votre Age :</string>
+    <string name="jeunez">Est-ce que vous jeunez ?</string>
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+    <string name="hint">Valeur mesurée (en mmol/l)</string>
+    <string name="submit">Consulter</string>
+    <string name="result">...</string>
+</resources>
